@@ -4,6 +4,12 @@
 
 React implementation of the Web Experience Toolkit (WET).
 
+Alex Breeze contributed approximately half of the components, and they can be found in ./src/components
+
+Components made by other people have been removed from this repo
+
+To view the components in action via the documentation, click the 'Storybook' link above. It contains ALL the components, crossreference with this repo to know which ones were made by Alex
+
 ## Build status
 
 [![Chromatic Deployment](https://github.com/ised-ocp-dev/wet-react/actions/workflows/chromatic.yaml/badge.svg?branch=master)](https://github.com/ised-ocp-dev/wet-react/actions/workflows/chromatic.yaml)
@@ -26,9 +32,3 @@ The documentation for these core projects can be found here:
 [![WET CSS](https://img.shields.io/static/v1?label=%20&message=WET%20Documentation&logo=read-the-docs&color=0e4164&&style=for-the-badge)](https://wet-boew.github.io/wet-boew/index-en.html)
 
 [![WET CSS](https://img.shields.io/static/v1?label=%20&message=React%20Bootstrap%20Docs&logo=bootstrap&color=7952b3&logoColor=white&style=for-the-badge)](https://react-bootstrap.github.io/)
-
-Alex Breeze contributed approximately half of the components, and they can be found in ./src/components
-
-Components made by other people have been removed from this repo
-
-To view the components in action via the documentation, click the 'Storybook' link above. It contains ALL the components, crossreference with this repo to know which ones were made by Alex
